@@ -65,15 +65,7 @@
 
 3. 알림 기능
 - 해당 지역의 위험 질병 순위 알림 기능
-![image](https://user-images.githubusercontent.com/103898937/222125390-d9f7d6c7-a91b-4ad3-b48e-722d193f525f.png)
-
-
-![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/103898937/235078453-8f2a221c-700f-4b1b-a3f6-4bf312680ec4.jpg)  
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/103898937/222125390-d9f7d6c7-a91b-4ad3-b48e-722d193f525f.png)  
 
 
 #참가 후기
