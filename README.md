@@ -68,6 +68,13 @@
 ![image](https://user-images.githubusercontent.com/103898937/222125390-d9f7d6c7-a91b-4ad3-b48e-722d193f525f.png)
 
 
+![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/103898937/235078453-8f2a221c-700f-4b1b-a3f6-4bf312680ec4.jpg)  
+
+
+
+
+
+
 
 #참가 후기
 이번 경진대회를 통해 독거노인들의 질병 실태 파악과 예방에 도움
