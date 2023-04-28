@@ -64,7 +64,8 @@
 ![image](https://user-images.githubusercontent.com/103898937/222125237-607cea26-9670-4a23-926f-614ce5992bc0.png)
 
 3. 알림 기능
-- 해당 지역의 위험 질병 순위 알림 기능
+- 해당 지역의 위험 질병 순위 알림 기능  
+
 ![image](https://user-images.githubusercontent.com/103898937/222125390-d9f7d6c7-a91b-4ad3-b48e-722d193f525f.png)
 
 
